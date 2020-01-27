@@ -1,0 +1,1 @@
+for f in *.mp3; do mv "$f" "${f%-*.mp3}.mp3" ; done
