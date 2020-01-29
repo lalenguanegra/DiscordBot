@@ -8,6 +8,8 @@ Requirements:
 
 pip install youtube-dl
 
+pip install discord.py
+
 https://github.com/Rapptz/discord.py
 
 https://github.com/ytdl-org/youtube-dl
