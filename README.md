@@ -6,6 +6,8 @@
 
 Requirements:
 
+pip install youtube-dl
+
 https://github.com/Rapptz/discord.py
 
 https://github.com/ytdl-org/youtube-dl
@@ -13,3 +15,5 @@ https://github.com/ytdl-org/youtube-dl
 https://www.python.org
 
 https://discordapp.com
+
+
