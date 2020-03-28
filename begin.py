@@ -1,3 +1,5 @@
+# For Windows 10 CMD (Command Prompt) USE 
+# RUN begin.bat
 import discord
 import sys
 import subprocess 
