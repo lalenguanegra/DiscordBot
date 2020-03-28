@@ -1,4 +1,4 @@
-# For Windows 10 CMD (Command Prompt) USE 
+# For Windows 10 CMD (Command Prompt) USE + WSL
 # RUN begin.bat
 import discord
 import sys
