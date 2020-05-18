@@ -6,6 +6,10 @@
 
 [DEMO (UPDATE)](https://www.youtube.com/watch?v=k0-FDPEVZ0k)
 
+Email Bot:
+
+https://pastebin.com/gzCbBQrH
+
 Requirements:
 
 pip install youtube-dl
