@@ -4,7 +4,7 @@
 
 [DEMO](https://youtu.be/jDu2_ZUhRFE)
 
-[DEMO(UPDATE)](https://www.youtube.com/watch?v=k0-FDPEVZ0k)
+[DEMO (UPDATE)](https://www.youtube.com/watch?v=k0-FDPEVZ0k)
 
 Requirements:
 
