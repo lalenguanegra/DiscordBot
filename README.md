@@ -2,6 +2,10 @@
 
 ![Bot](https://i.ibb.co/SVSC6sy/discord-bot.png)
 
+youtube-dl bot
+
+this variation of the Discord Bot downloads youtube videos in .mp3 format to the target machine (home computer/remote machine)
+
 [DEMO](https://youtu.be/jDu2_ZUhRFE)
 
 [DEMO (UPDATE)](https://www.youtube.com/watch?v=k0-FDPEVZ0k)
