@@ -4,7 +4,9 @@
 
 youtube-dl bot
 
-this variation of the Discord Bot downloads youtube videos in .mp3 format to the target machine (home computer/remote machine)
+this variation of the Discord Bot downloads youtube videos in .mp3 format to the target machine 
+
+(home computer/remote machine)
 
 [DEMO](https://youtu.be/jDu2_ZUhRFE)
 
