@@ -1,4 +1,4 @@
-# sudo pip install --upgrade youtube_dl
+# sudo pip install --upgrade youtube-dl
 # FOR USE WITH UBUNTU WSL - Windows Subsystem for Linux
 import discord
 import sys
