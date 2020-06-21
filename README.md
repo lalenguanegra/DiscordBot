@@ -14,6 +14,8 @@ this variation of the Discord Bot downloads youtube videos in .mp3 format to the
 
 Email Bot:
 
+https://github.com/lalenguanegra/DiscordBot__Full_Linux_Scripts
+
 https://pastebin.com/gzCbBQrH
 
 Requirements:
