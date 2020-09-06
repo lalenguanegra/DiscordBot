@@ -7,7 +7,7 @@ bot = commands.Bot(command_prefix='!')
 
 @bot.event
 async def on_command_error(ctx, error):
-    await ctx.send(f"An error occured: {str(error)}")
+    await ctx.send(f"An error occurred: {str(error)}")
 
 @bot.command()
 @commands.has_role('ayylmao')
