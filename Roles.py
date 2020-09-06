@@ -5,6 +5,10 @@ from subprocess import call
 from discord.ext import commands
 bot = commands.Bot(command_prefix='!')
 
+@bot.event
+async def on_command_error(ctx, error):
+    await ctx.send(f"An error occured: {str(error)}")
+
 @bot.command()
 @commands.has_role('ayylmao')
 async def ayy(ctx, arg):
