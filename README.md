@@ -8,10 +8,6 @@ this variation of the Discord Bot downloads youtube videos in .mp3 format to the
 
 (home computer/remote machine)
 
-[DEMO](https://youtu.be/jDu2_ZUhRFE)
-
-[DEMO (UPDATE)](https://www.youtube.com/watch?v=k0-FDPEVZ0k)
-
 Email Bot:
 
 https://github.com/lalenguanegra/DiscordBot__Full_Linux_Scripts
